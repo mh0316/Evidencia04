@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class EcuacionCuadratica {
     public static void main(String[] args) {
         pedirDatosEcuacion();
+
     }
 
     public static void pedirDatosEcuacion(){
